@@ -1,0 +1,18 @@
+li {
+    display: inline;
+    margin-right: 20px;
+    padding: 20px;
+    color: blue;
+    font-weight: bold;
+}
+
+h1 {
+    padding: 30px;
+    margin-right: 20px;
+    color: brown;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
